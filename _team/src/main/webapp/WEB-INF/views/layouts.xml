@@ -7,7 +7,7 @@
 
 <tiles-definitions>
 
-<definition name="login" template="/WEB-INF/views/layout-tiles.jsp">
+<definition name="main.tiles" template="/WEB-INF/views/layout-tiles.jsp">
 	<put-attribute name="header" value="/WEB-INF/views/header.jsp"/>
 	<put-attribute name="content" value="/WEB-INF/views/login/content.jsp"/>
 	<put-attribute name="content2" value="/WEB-INF/views/login/content2.jsp"/>

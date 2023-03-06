@@ -112,7 +112,7 @@
 		</div>
 		
 		<div class="login" >
-			<a href="login.do" style="text-decoration: none;"><b>로그인<%="&nbsp;&nbsp;&nbsp;&nbsp;"%></b></a>
+			<a href="login.jsp" style="text-decoration: none;"><b>로그인<%="&nbsp;&nbsp;&nbsp;&nbsp;"%></b></a>
 		</div>
 		
 		<div class="search" >
